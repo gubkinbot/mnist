@@ -1,4 +1,4 @@
-# uzum_mnist
+# UZUM MNIST
 
 ## Overview
 
